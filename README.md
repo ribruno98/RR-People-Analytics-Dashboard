@@ -73,6 +73,17 @@ Massa Salarial = SUM(Funcionários[salario])
 
 // 6. Média Salarial dos Colaboradores
 Média Salarial = AVERAGE(Funcionários[salario])
-
+```
 ---
 
+ ### Páginas do Dashboard
+
+#### 1. Visão Geral
+<img width="1496" height="835" alt="Captura de ecrã 2026-06-04 220318" src="https://github.com/user-attachments/assets/c0fb3207-3e69-4369-802b-7110b50241a6" />
+
+#### 2. Rotatividade
+<img width="1491" height="836" alt="Captura de ecrã 2026-06-04 220335" src="https://github.com/user-attachments/assets/a3c834b0-d685-4df1-8d99-67f7c219233a" />
+
+---
+**Clique aqui para interagir com o Dashboard Online:**
+https://app.powerbi.com/view?r=eyJrIjoiNDEyNzBiMTctNDIzNy00OGE4LWI0NDktMTA2NDEyMGI3ZjU2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
