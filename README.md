@@ -72,14 +72,7 @@ Taxa de Churn = DIVIDE([Total Demissões], [Total Contratações], 0)
 Massa Salarial = SUM(Funcionários[salario])
 
 // 6. Média Salarial dos Colaboradores
-Média Salarial = AVERAGE(Funcionários[salario])´´´
+Média Salarial = AVERAGE(Funcionários[salario])
 
-
- ### Páginas do Dashboard
-
-#### 1. Visão Geral
-<img width="1875" height="1053" alt="image" src="https://github.com/user-attachments/assets/47488890-a0ed-4736-9fc6-5322076e2515" />
-
-#### 2. Análise de Produtos
-<img width="1874" height="1052" alt="image" src="https://github.com/user-attachments/assets/b928d4c7-6266-4f3d-baf6-dee5c835c028" />
+---
 
