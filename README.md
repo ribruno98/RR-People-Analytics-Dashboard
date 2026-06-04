@@ -25,7 +25,7 @@ Este painel foi desenhado para responder a três perguntas-chave da diretoria:
 
 ---
 
-##Modelação de Dados (Star Schema)
+## Modelação de Dados (Star Schema)
 Para garantir a máxima performance das fórmulas e uma estrutura limpa, o modelo foi desenhado utilizando o conceito de **Star Schema** (Tabelas de Factos e Tabelas de Dimensão):
 
 * **Tabela de Factos Central:**
